@@ -14,6 +14,8 @@ Hi ! i am Vinicius Grossi !
 - 🔭 I’m currently working on Front-end and Back-end
 - 🌱 I’m currently learning more about React.js and Node.js
 - 👯 I’m looking to collaborate on any work HTML, CSS and JavaScript
+ ##
+
 <div>
   <ahref="http://github.com/grossi13">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=grossi13&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
