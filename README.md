@@ -2,7 +2,7 @@
 
 Português-Br
 
-- 🔭 Estou atualmente trabalhando com Front-end e Back-end
+- 🔭 Estou atualmente buscando trabalhar com Front-end e Back-end
 - 🌱 Estou estudando mais sobre React.js e Node.js
 - 👯 Estou buscando trabalhos e atividades em HTML, CSS e JavaScript
 
