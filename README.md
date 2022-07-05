@@ -35,8 +35,6 @@ Hi ! i am Vinicius Grossi !
   <a href = "mailto:viniciustgrossi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinicius-theodoro-grossi-13a6ba215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href = "https://twitter.com/Vini_Grossi"><img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target = "_blank"></a>
-   
- ![Snake animation](https://github.com/grossi13/grossi13/blob/output/github-contribution-grid-snake.svg)
  
 </div>
   
