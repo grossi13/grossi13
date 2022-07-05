@@ -11,7 +11,7 @@ English
 Hi ! i am Vinicius Grossi !
 
 
-- 🔭 I’m currently working on Front-end and Back-end
+- 🔭 I’m currently looking for a work with Front-end and Back-end
 - 🌱 I’m currently learning more about React.js and Node.js
 - 👯 I’m looking to collaborate on any work HTML, CSS and JavaScript
 
