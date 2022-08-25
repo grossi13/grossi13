@@ -2,18 +2,18 @@
 
 Português-Br
 
-- 🔭 Estou atualmente buscando trabalhar com Front-end e Back-end
-- 🌱 Estou estudando mais sobre React.js e Node.js
-- 👯 Estou buscando trabalhos e atividades em HTML, CSS e JavaScript
+- 🔭 Estou atualmente buscando trabalhar com Java, Front-end e Back-end
+- 🌱 Estou estudando mais sobre Java, React.js e Node.js
+- 👯 Estou buscando trabalhos e atividades em Java, HTML, CSS e JavaScript
 
 English
 
 Hi ! i am Vinicius Grossi !
 
 
-- 🔭 I’m currently looking for a work with Front-end and Back-end
-- 🌱 I’m currently learning more about React.js and Node.js
-- 👯 I’m looking to collaborate on any work HTML, CSS and JavaScript
+- 🔭 I’m currently looking for a work with JAva, Front-end and Back-end
+- 🌱 I’m currently learning more about Java, React.js and Node.js
+- 👯 I’m looking to collaborate on any work JAva, HTML, CSS and JavaScript
 
  ##
  
