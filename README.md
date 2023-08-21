@@ -2,18 +2,18 @@
 
 Português-Br
 
-- 🔭 Estou atualmente buscando trabalhar com Java, Front-end e Back-end
-- 🌱 Estou estudando mais sobre Java, React.js e Node.js
-- 👯 Estou buscando trabalhos e atividades em Java, HTML, CSS e JavaScript
+- 🔭 Estou atualmente atuando como Desenvolvedor Full Stack, Front-end Angular e Back-end Java
+- 🌱 Estou estudando mais sobre Java, Angular e Apache Poi
+- 👯 Estou buscando trabalhos e atividades em Java, Angular, HTML, CSS, JavaScript
 
 English
 
 Hi ! i am Vinicius Grossi !
 
 
-- 🔭 I’m currently looking for a work with JAva, Front-end and Back-end
-- 🌱 I’m currently learning more about Java, React.js and Node.js
-- 👯 I’m looking to collaborate on any work JAva, HTML, CSS and JavaScript
+- 🔭 I’m currently working as Full Stack Developer, Java Back-end and Angular Front-end 
+- 🌱 I’m currently learning more about Java, Angular and Apache Poi
+- 👯 I’m looking to collaborate on any work Java, Angular, HTML, CSS and JavaScript
 
  ##
  
